@@ -6,7 +6,7 @@
 
 | Halaman Utama |
 | :---: |
-| ![Droid Desserts UI](Screenshot_20261020_171039.jpg) |
+| ![Droid Desserts UI](https://raw.githubusercontent.com/aldyrialdy/DesertRecycleView/d46ce676294e25fec4fb1c16fe8abbc17d697496/Screenshot_20261020_171039.png) |
 
 ## ✨ Fitur Utama
 
