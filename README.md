@@ -1,6 +1,6 @@
 # 🍩 Droid Desserts
 
-> Aplikasi mobile sederhana berbasis Android yang menampilkan daftar hidangan penutup (dessert) populer beserta deskripsi singkatnya.
+> Aplikasi mobile sederhana berbasis Android yang menampilkan daftar hidangan penutup (dessert) populer beserta deskripsi singkatnya. Dari hasil praktikum
 
 ## 📸 Tampilan Aplikasi (Preview)
 
